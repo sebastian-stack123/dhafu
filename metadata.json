@@ -1,0 +1,8 @@
+{
+  "name": "DHAFÚ COLECCIÓN",
+  "description": "Premium luxury streetwear e-commerce boutique in Quito, Ecuador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
